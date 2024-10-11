@@ -44,8 +44,8 @@ copyright = "&copy;2024 Windy Hill Art LLC"
     [params.visual.video]
       enable = true
       mute = true
-      file = "videos/background-video.mp4"
-      # youtubeId = "dk9uNWPP7EA"
+      # file = "videos/background-video.mp4"
+      youtubeId = "rfFZjJ4EdEc"
 
   # Links
   #
